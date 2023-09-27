@@ -5,37 +5,67 @@
 
 ## About Me
 
-Hi there I'm Degef, a passionate software developer and a recent graduate from Zayed University with a degree in Information Systems. I'm enthusiastic about solving complex problems and learning new technologies. Here are a few things about me:
+Hi there I'm Degef, a passionate software developer and a recent graduate from Zayed University with a degree in Information Systems. Here are a few things about me:
+
+- 📚 I'm enthusiastic about solving complex problems and learning new technologies.
 - 🌐 I'm based in UAE.
 - 💻 I'm proficient in C, C++, Python, R and more.
 - 🌱 I'm currently learning software engineering at [42 Abu Dhabi](https://42abudhabi.ae/?utm_source=Google&utm_medium=search&utm_campaign=42ADSearchBrand&gad=1&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-TmYStgQ-9cWZxrRKhP6rW7guni2zqoy1XfF_HCdkkTIPdhHabrYgaAlPCEALw_wcB).
-- 📚 I'm interested in software engineering.
 
 ## Projects
 
 Here are some of the projects I've worked on:
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/Cub3D">Cub3D</a></td>
+    <td>A 3D maze game developed using the raycasting technique in C.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
+    <td>A collection of C++ projects covering various topics and concepts.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/Dining-Philosophers">Dining Philosophers</a></td>
+    <td>An implementation of the classic dining philosophers problem in C.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/Push_Swap">Push_Swap</a></td>
+    <td>A sorting algorithm project in C that aims to sort a stack of integers with specific rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/Minishell">Minishell</a></td>
+    <td>A minimal Unix shell with built-in commands and support for pipes and redirections.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/So-long">So_long</a></td>
+    <td>A 2D game developed in C using the MinilibX graphics library.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/Minitalk">Minitalk</a></td>
+    <td>A client-server communication project in C using signals.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/get_next_line">get_next_line</a></td>
+    <td>A function in C for reading lines from file descriptors.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/ft_printf">ft_printf</a></td>
+    <td>An implementation of the printf function in C.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Degef/Libft">Libft</a></td>
+    <td>A library of custom C functions used in various projects.</td>
+  </tr>
+</table>
 
-- [Cub3D](https://github.com/Degef/Cub3D): A 3D maze game developed using the raycasting technique in C.
-
-- [CPP Modules](https://github.com/Degef/CPP-Modules): A collection of C++ projects covering various topics and concepts in OOP programming.
-  
-- [Dining Philosophers](https://github.com/Degef/Philosophers): An implementation of the classic dining philosophers problem in C.
-  
-- [Push_Swap](https://github.com/Degef/Push_Swap): A sorting algorithm project in C that aims to sort a stack of integers with specific rules.
-  
-- [Minishell](https://github.com/Degef/Minishell): A minimal Unix shell with built-in commands and support for pipes and redirections.
-  
-- [So_long](https://github.com/Degef/So_long): A 2D game developed in C using the MinilibX graphics library.
-  
-- [Minitalk](https://github.com/Degef/Minitalk): A client-server communication project in C using signals.
-  
-- [get_next_line](https://github.com/Degef/get_next_line): A function in C for reading lines from file descriptors.
-  
-- [ft_printf](https://github.com/Degef/ft_printf): An implementation of the printf function in C.
-  
-- [Libft](https://github.com/Degef/Libft): A library of custom C functions used in various projects.
 
 Feel free to explore my repositories to see more of my work!
+
+
 
 ## Contact Me
 
