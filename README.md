@@ -11,8 +11,6 @@ Hi there I'm Degef, a passionate software developer and a recent graduate from Z
 - 🌱 I'm currently learning software engineering at [42 Abu Dhabi](https://42abudhabi.ae/?utm_source=Google&utm_medium=search&utm_campaign=42ADSearchBrand&gad=1&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-TmYStgQ-9cWZxrRKhP6rW7guni2zqoy1XfF_HCdkkTIPdhHabrYgaAlPCEALw_wcB).
 - 📚 I'm interested in software engineering.
 
-![42 Abu Dhabi Profile](https://badge42.herokuapp.com/api/stats/dsium)
-
 ## Projects
 
 Here are some of the projects I've worked on:
