@@ -3,9 +3,9 @@
 
 # Degef Sium
 
-## About Me
+ 👋  Hi there I'm Degef, a passionate software developer and a recent graduate from Zayed University with a degree in Information Systems. Here are a few things about me:
 
-Hi there I'm Degef, a passionate software developer and a recent graduate from Zayed University with a degree in Information Systems. Here are a few things about me:
+## About Me
 
 - 📚 I'm enthusiastic about solving complex problems and learning new technologies.
 - 🌐 I'm based in UAE.
