@@ -1,3 +1,6 @@
+<!-- Include Font Awesome CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
 # Degef Sium
 
 ## About Me
@@ -13,24 +16,32 @@ Hello! I'm Degef, a passionate software developer and a recent graduate from Zay
 Here are some of the projects I've worked on:
 
 - [Cub3D](https://github.com/Degef/Cub3D): A 3D maze game developed using the raycasting technique in C.
-- [CPP Modules](https://github.com/Degef/CPP-Modules): A collection of C++ projects covering various topics and concepts in OOP programming.
-- [Dining Philosophers](https://github.com/Degef/Philosophers): An implementation of the classic dining philosophers problem in C.
-- [Push_Swap](https://github.com/Degef/Push_Swap): A sorting algorithm project in C that aims to sort a stack of integers with specific rules.
-- [Minishell](https://github.com/Degef/Minishell): A minimal Unix shell with built-in commands and support for pipes and redirections.
-- [So_long](https://github.com/Degef/So_long): A 2D game developed in C using the MinilibX graphics library.
-- [Minitalk](https://github.com/Degef/Minitalk): A client-server communication project in C using signals.
-- [get_next_line](https://github.com/Degef/get_next_line): A function in C for reading lines from file descriptors.
-- [ft_printf](https://github.com/Degef/ft_printf): An implementation of the printf function in C.
-- [Libft](https://github.com/Degef/Libft): A library of custom C functions used in various projects.
 
+- [CPP Modules](https://github.com/Degef/CPP-Modules): A collection of C++ projects covering various topics and concepts in OOP programming.
+  
+- [Dining Philosophers](https://github.com/Degef/Philosophers): An implementation of the classic dining philosophers problem in C.
+  
+- [Push_Swap](https://github.com/Degef/Push_Swap): A sorting algorithm project in C that aims to sort a stack of integers with specific rules.
+  
+- [Minishell](https://github.com/Degef/Minishell): A minimal Unix shell with built-in commands and support for pipes and redirections.
+  
+- [So_long](https://github.com/Degef/So_long): A 2D game developed in C using the MinilibX graphics library.
+  
+- [Minitalk](https://github.com/Degef/Minitalk): A client-server communication project in C using signals.
+  
+- [get_next_line](https://github.com/Degef/get_next_line): A function in C for reading lines from file descriptors.
+  
+- [ft_printf](https://github.com/Degef/ft_printf): An implementation of the printf function in C.
+  
+- [Libft](https://github.com/Degef/Libft): A library of custom C functions used in various projects.
 
 Feel free to explore my repositories to see more of my work!
 
 ## Contact Me
 
 - [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/Degef)
-- [LinkedIn](https://www.linkedin.com/in/45756-1992113degef-sium)
-- [Email](degef.sium.g@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/45756-1992113degef-sium)
+- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=email)](degef.sium.g@gmail.com)
 
 ## Let's Connect!
 
