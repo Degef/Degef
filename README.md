@@ -28,7 +28,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Contact Me
 
-- [GitHub](https://github.com/Degef)
+- [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/Degef)
 - [LinkedIn](https://www.linkedin.com/in/45756-1992113degef-sium)
 - [Email](degef.sium.g@gmail.com)
 
