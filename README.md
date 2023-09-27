@@ -3,7 +3,8 @@
 ## About Me
 
 Hello! I'm Degef, a passionate software developer and a recent graduate from Zayed University with a degree in Information Systems. I'm enthusiastic about solving complex problems and learning new technologies. Here are a few things about me:
-
+- 🌐 I'm based in UAE.
+- 💻 I'm proficient in C, C++, Python, R and more.
 - 🌱 I'm currently learning more about software engineering at [42 Abu Dhabi](https://42abudhabi.ae/?utm_source=Google&utm_medium=search&utm_campaign=42ADSearchBrand&gad=1&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-TmYStgQ-9cWZxrRKhP6rW7guni2zqoy1XfF_HCdkkTIPdhHabrYgaAlPCEALw_wcB).
 - 📚 I'm interested in software engineering.
 
