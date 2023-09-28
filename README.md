@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
     <td>A collection of C++ projects covering various topics and concepts.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Degef/Dining-Philosophers">Dining Philosophers</a></td>
+    <td><a href="https://github.com/Degef/Philosophers">Dining Philosophers</a></td>
     <td>An implementation of the classic dining philosophers problem in C.</td>
   </tr>
   <tr>
