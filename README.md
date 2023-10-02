@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
     <td>An implementation of the classic dining philosophers problem in C.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Degef/Push_Swap">Push_Swap</a></td>
+    <td><a href="https://github.com/Degef/Push-Swap">Push_Swap</a></td>
     <td>A sorting algorithm project in C that aims to sort a stack of integers with specific rules.</td>
   </tr>
   <tr>
@@ -41,11 +41,11 @@ Here are some of the projects I've worked on:
     <td>A minimal Unix shell with built-in commands and support for pipes and redirections.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Degef/So-long">So_long</a></td>
+    <td><a href="https://github.com/Degef/So_long">So_long</a></td>
     <td>A 2D game developed in C using the MinilibX graphics library.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Degef/Minitalk">Minitalk</a></td>
+    <td><a href="https://github.com/Degef/minitalk">Minitalk</a></td>
     <td>A client-server communication project in C using signals.</td>
   </tr>
   <tr>
