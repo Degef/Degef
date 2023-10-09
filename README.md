@@ -25,6 +25,10 @@ Here are some of the projects I've worked on:
     <td>A 3D maze game developed using the raycasting technique in C.</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Degef/Snake-Game">Snake Game</a></td>
+    <td>A Snake game developed using Python tkinter.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
     <td>A collection of C++ projects covering various topics and concepts.</td>
   </tr>
