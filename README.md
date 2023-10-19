@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
-    <td>
+    <td> Collection of OOP Modules using C++ <br>
       <details>
         <summary>Click to expand</summary>
         <table>
