@@ -79,6 +79,6 @@ Feel free to explore my repositories to see more of my work!
 
 ## Let's Connect!
 
-I'm always open to new opportunities and collaborations. If you have an interesting project or just want to chat about tech, feel free to reach out to me. Let's connect and build something amazing together!
+I'm always open to new opportunities and collaborations. If you have an interesting project or just want to chat about tech, feel free to reach out. Let's connect and build something amazing together!
 
 Happy coding! 🚀
