@@ -30,7 +30,18 @@ Here are some of the projects I've worked on:
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
-    <td>A collection of C++ projects covering various topics and concepts.</td>
+    <td>
+      <a href="https://github.com/Degef/CPP-Modules/cpp00">Module 00:</a>class, member functions, io streams, initialization lists, static, const, and lots of basic stuff.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp01">Module 01:</a> Ad-hoc polymorphism, operators overload and canonical classes.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp02">Module 02:</a> Inheritance.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp03">Module 03:</a> Subtype polymorphism, abstract classes, interfaces.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp04">Module 04:</a> Repetition and Exceptions.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp05">Module 05:</a> C++ Casts.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp06">Module 06:</a> C++ Templates.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp07">Module 07:</a> Templated containers, iterators, algorithms.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp08">Module 08:</a> The STL.<br>
+      <a href="https://github.com/Degef/CPP-Modules/cpp09">Module 01:</a> Final Exam.
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/Philosophers">Dining Philosophers</a></td>
