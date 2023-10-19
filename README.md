@@ -50,15 +50,15 @@ Here are some of the projects I've worked on:
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/minitalk">Minitalk</a></td>
-    <td>A client-server communication project in C using signals.</td>
+    <td>A client-server process communication project using C signals.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/get_next_line">get_next_line</a></td>
-    <td>A function in C for reading lines from file descriptors.</td>
+    <td>A function in C for reading lines from file one at a time.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/ft_printf">ft_printf</a></td>
-    <td>An implementation of the printf function in C.</td>
+    <td> A replication of the Printf function in C.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/Libft">Libft</a></td>
