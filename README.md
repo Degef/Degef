@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
   </tr>
   <tr>
     <td><a href="https://github.com/Degef/CPP-Modules">CPP Modules</a></td>
-    <td> Collection of OOP Modules using C++ <br>
+    <td> Collection of CPP Modules regarding fundamentals of Object-oriented programming (OOP)  <br>
       <details>
         <summary>Click to expand</summary>
         <table>
@@ -115,10 +115,8 @@ Here are some of the projects I've worked on:
 Feel free to explore my repositories to see more of my work!
 
 
-
 ## Contact Me
 
-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/Degef)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/45756-1992113degef-sium)
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=email)](degef.sium.g@gmail.com)
 
