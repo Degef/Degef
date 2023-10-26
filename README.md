@@ -35,43 +35,43 @@ Here are some of the projects I've worked on:
         <summary>Click to expand</summary>
         <table>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp00">Module 00:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp00">Module 00:</a></td>
             <td>Introduction to C++ syntax</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp01">Module 01:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp01">Module 01:</a></td>
             <td>Class, member functions, io streams, initialization lists, static, const, and lots of basic stuff.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp02">Module 02:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp02">Module 02:</a></td>
             <td>Ad-hoc polymorphism, operators overload and canonical classes.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp03">Module 03:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp03">Module 03:</a></td>
             <td>Inheritance.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp04">Module 04:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp04">Module 04:</a></td>
             <td>Subtype polymorphism, abstract classes, interfaces.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp05">Module 05:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp05">Module 05:</a></td>
             <td>Repetition and Exceptions.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp06">Module 06:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp06">Module 06:</a></td>
             <td>C++ Casts.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp07">Module 07:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp07">Module 07:</a></td>
             <td>C++ Templates.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp08">Module 08:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp08">Module 08:</a></td>
             <td>Templated containers, iterators, algorithms.</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/Degef/CPP-Modules/cpp09">Module 09:</a></td>
+            <td><a href="https://github.com/Degef/CPP-Modules/tree/master/cpp09">Module 09:</a></td>
             <td>The STL.</td>
           </tr>
         </table>
