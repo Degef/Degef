@@ -3,14 +3,31 @@
 
 # Degef Sium
 
- 👋  Hi there I'm Degef, a passionate software developer and a recent graduate from Zayed University with a degree in Information Systems. Here are a few things about me:
+ 👋  Hi there I'm Degef, a passionate aspiring fullstack developer and a recent graduate from Zayed University with a degree in Information Systems. Here are a few things about me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/45756-1992113degef-sium)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=email)](mailto:degef.sium.g%40gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Degef&color=blueviolet)
+
 
 ## About Me
 
 - 📚 I'm enthusiastic about solving complex problems and learning new technologies.
 - 🌐 I'm based in UAE.
-- 💻 I'm proficient in C, C++, Python, R and more.
 - 🌱 I'm currently learning software engineering at [42 Abu Dhabi](https://42abudhabi.ae/?utm_source=Google&utm_medium=search&utm_campaign=42ADSearchBrand&gad=1&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-TmYStgQ-9cWZxrRKhP6rW7guni2zqoy1XfF_HCdkkTIPdhHabrYgaAlPCEALw_wcB).
+
+## Tools and Technologies
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+[![Wix](https://img.shields.io/badge/Wix-2E7CC7?style=for-the-badge&logo=wix&logoColor=white)](https://www.wix.com/)
+
 
 ## My Projects
 
@@ -115,10 +132,6 @@ Here are some of the projects I've worked on:
 Feel free to explore my repositories to see more of my work!
 
 
-## Contact Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/45756-1992113degef-sium)
-- [![Email](https://img.shields.io/badge/Email-Contact-red?logo=email)](degef.sium.g@gmail.com)
 
 ## Let's Connect!
 
