@@ -25,6 +25,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-FF4777?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
 [![Wix](https://img.shields.io/badge/Wix-2E7CC7?style=for-the-badge&logo=wix&logoColor=white)](https://www.wix.com/)
 
