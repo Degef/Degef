@@ -33,6 +33,8 @@
 ## My Projects
 
 Here are some of the projects I've worked on:
+<details>
+  <summary>Click to expand</summary>
 <table>
   <tr>
     <th>Projects</th>
@@ -129,6 +131,7 @@ Here are some of the projects I've worked on:
     <td>A library of custom C functions used in various projects.</td>
   </tr>
 </table>
+      </details>
 
 Feel free to explore my repositories to see more of my work!
 
