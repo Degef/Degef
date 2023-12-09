@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/45756-1992113degef-sium)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=email)](mailto:degef.sium.g%40gmail.com)
-![pv](https://komarev.com/ghpvc/?username=Degef&color=blueviolet)
+<!--![](https://komarev.com/ghpvc/?username=Degef&color=blueviolet) -->
 
 
 ## About Me
