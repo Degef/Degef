@@ -29,7 +29,7 @@
 [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
 [![Wix](https://img.shields.io/badge/Wix-2E7CC7?style=for-the-badge&logo=wix&logoColor=white)](https://www.wix.com/)
 
-
+<!--
 ## My Projects
 
 Here are some of the projects I've worked on:
@@ -132,6 +132,8 @@ Here are some of the projects I've worked on:
   </tr>
 </table>
       </details>
+   -->
+
 
 Feel free to explore my repositories to see more of my work!
 
