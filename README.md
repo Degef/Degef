@@ -137,6 +137,7 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my repositories to see more of my work!
 
+![snake gif](https://github.com/Degef/Degef/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Let's Connect!
