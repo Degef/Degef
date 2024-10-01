@@ -3,7 +3,7 @@
 
 # Degef Sium
 
- 👋  Hi there I'm Degef, a passionate aspiring fullstack developer and a recent graduate from Zayed University with a degree in Information Systems. Here are a few things about me:
+ 👋  Hi there I'm Degef
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/45756-1992113degef-sium)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=email)](mailto:degef.sium.g%40gmail.com)
